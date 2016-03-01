@@ -1,0 +1,8 @@
+{
+  "name": "typescript-lib-boilerplate",
+  "dependencies": {},
+  "devDependencies": {},
+  "ambientDependencies": {
+    "inversify": "github:DefinitelyTyped/DefinitelyTyped/inversify/inversify.d.ts#31bfa9579b58e72f03941d4dbc9ebc6076139990"
+  }
+}

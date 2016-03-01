@@ -1,0 +1,20 @@
+{
+  "name": "typescript-lib-boilerplate",
+  "version": "0.0.1",
+  "description": "Testing out how dependencies work with TSD",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davste93/typescript-lib-boilerplate.git"
+  },
+  "author": "David Stellini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davste93/typescript-lib-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Davste93/typescript-lib-boilerplate#readme"
+}
